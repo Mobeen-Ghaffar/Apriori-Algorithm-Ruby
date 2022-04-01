@@ -1,6 +1,6 @@
 # Apriori-Algorithm-Ruby
 
-Apriori Algorithm built in Ruby
+Apriori Algorithm implemented in Ruby
 
 
 Used Gem:<br/>
