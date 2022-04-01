@@ -3,7 +3,7 @@
 Apriori Algorithm built in Ruby
 
 
-Used Gem:
+Used Gem:<br/>
   Apriori <br/>
   firebase <br/>
   barby <br/>
